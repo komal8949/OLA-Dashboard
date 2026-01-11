@@ -117,7 +117,7 @@ The dataset contains information such as:
 
 ---
 
-## 👤 Author
+## 👤 Author-
 
 **Komal Singh Shekhawat**  
 Data Analyst | Data Science Enthusiast  
