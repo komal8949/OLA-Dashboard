@@ -124,5 +124,3 @@ Data Analyst | Data Science Enthusiast
 
 
 ---
-
-## ⭐ If you like this project, don’t forget to star the repository!
